@@ -1,0 +1,16 @@
+{
+ "Name": "Safecoin",
+ "Desc": "Safecoin Main Net",
+ "Id": "0x8fe2edf1",
+ "Port": 8770,
+ "Pver": 170022,
+ "DNSName": "dnsseedua.local.support",
+ "TTL": 600,
+ "Seeder1": "dnsseed.local.support",
+ "Seeder2": "dnsseed.fair.exchange",
+ "Seeder3": "explorer.safecoin.org",
+ "Seeder4": "66.42.45.93",
+ "Seeder5": "173.199.119.93",
+ "Seeder6": "164.68.119.151",
+ "Seeder7": "93.170.147.127"
+}
